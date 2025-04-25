@@ -41,6 +41,15 @@ A minimal Python demo that pairs a **bold-cued Necker cube** with a **40 Hz audi
 | **Transfer to other figures** | Training effects generalise poorly from cubes to unrelated bistable images; confirm with additional stimuli if needed. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1053811915005583) |
 | **Nested-cube effect size** | Empirical data on how multi-layer depth modulates γ is still sparse and sometimes contradictory. [Physiology Journals](https://journals.physiology.org/doi/full/10.1152/jn.00203.2007), [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0042698908004914) |
 
+---
 
+## Disclaimer
+
+This repository is a research and teaching sandbox.  
+It is **not** a medical, diagnostic, or therapeutic device and has **not** been evaluated by any regulatory agency.  
+All code and documentation are provided “as is,” without warranty of any kind.  
+Use at your own risk, and always comply with your local ethics and safety guidelines when running human-subject experiments.
+
+**Author note:** I am not a neuroscientist; all background references were gathered with the help of ChatGPT and verified to the best of my ability.
 
 
