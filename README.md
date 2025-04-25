@@ -10,6 +10,8 @@ A minimal Python demo that pairs a **bold-cued Necker cube** with a **40 Hz audi
 - **Optional depth load** — An inner Necker cube is built-in to increase figure–ground binding demands, a manipulation linked to stronger γ activity in V2/V4 models. 
   References: [Physiology Journals](https://journals.physiology.org/doi/full/10.1152/jn.00203.2007), [PMC1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4912377/), [PMC2](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564069/)
 
+![Alt text](/images/screenshot.png?raw=true "First 30 seconds")
+
 ## What’s the point?
 | **Goal** | **Neuroscience benefit** | **Key references** |
 |---|---|---|
