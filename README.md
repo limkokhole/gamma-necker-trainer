@@ -3,9 +3,9 @@
 A minimal Python demo that pairs a **bold-cued Necker cube** with a **40 Hz auditory click-train** so you can test how γ-band entrainment plus short-term perceptual learning alters the rate (and subjective control) of reversible-depth flips.
 
 ## What the script does
-- **Teach (0–30 s)** — The left cube alternates bold edges every 3 seconds; a 0.5-s burst of 40 Hz clicks repeats every 3 s.
+- **Teach (0–30 s)** — The left cube alternates bold edges every 3 s; a 0.5-s burst of 40 Hz clicks also repeats every 3 s — **use each burst as a cue to consciously flip the cube’s depth**.
 
-- **Test (30 s onward)** — The left cube auto-minimises; you now view the ambiguous cube alone while the click-train continues.
+- **Test (30 s onward)** — The left cube auto-minimises; keep listening to the click-beat and **keep flipping the now-ambiguous cube at every burst** to gauge how well the trained rhythm sticks.
 
 - **Optional depth load** — An inner Necker cube is built-in to increase figure–ground binding demands, a manipulation linked to stronger γ activity in V2/V4 models. 
   References: [Physiology Journals](https://journals.physiology.org/doi/full/10.1152/jn.00203.2007), [PMC1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4912377/), [PMC2](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564069/)
