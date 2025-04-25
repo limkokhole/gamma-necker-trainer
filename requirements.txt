@@ -1,0 +1,8 @@
+# Core numerical array library
+numpy
+
+# Plotting and 3-D animation (includes mpl_toolkits)
+matplotlib
+
+# Cross-platform audio playback for the 40 Hz click-train
+simpleaudio
